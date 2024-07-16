@@ -60,3 +60,19 @@ The provided code is a simple banking application in Python that allows users to
 ### Conclusion
 
 This code is a simple simulation of a banking system with basic functionalities such as authentication, balance inquiry, deposit, and withdrawal. It uses basic control structures like loops, conditionals, and exception handling to provide a user-friendly interaction.
+
+
+###Screenshots:
+1. <img width="425" alt="image" src="https://github.com/user-attachments/assets/c452e92b-6610-44b3-9d7a-be56a12410ca">
+2. <img width="374" alt="image" src="https://github.com/user-attachments/assets/3d49eb31-4f36-4cae-9ddc-add2cb437d5c">
+3. <img width="412" alt="image" src="https://github.com/user-attachments/assets/d379cb61-8648-4b8d-a8a6-bdeeeb608a7b">
+4. <img width="376" alt="image" src="https://github.com/user-attachments/assets/8987e6ef-af57-4f59-94e6-a1b9a5dad5af">
+5. <img width="503" alt="image" src="https://github.com/user-attachments/assets/94e0196c-405f-4045-961f-f6813814c573">
+6.<img width="589" alt="image" src="https://github.com/user-attachments/assets/3173e265-bd20-496a-822d-487601cd0468">
+
+
+
+
+
+
+
